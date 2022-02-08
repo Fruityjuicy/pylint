@@ -1,6 +1,5 @@
 [paths]
-source =
-   pylint
+source = pylint
 
 [report]
 include =
